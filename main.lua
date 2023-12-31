@@ -90,7 +90,7 @@ end
 local UI = urlLoad("https://raw.githubusercontent.com/luciuy/funky-friday-autoplay/main/library.lua")
 local themeManager = urlLoad("https://raw.githubusercontent.com/luciuy/funky-friday-autoplay/main/thememanager.lua")
 
-local metadata = urlLoad("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/metadata.lua")
+local metadata = urlLoad("https://raw.githubusercontent.com/luciuy/funky-friday-autoplay/main/metadata.lua")
 local httpService = game:GetService('HttpService')
 
 local framework, scrollHandler, network
